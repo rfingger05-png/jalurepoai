@@ -1,0 +1,7 @@
+{
+  "name": "질루신가랑: Vocab & Grammar Mastery",
+  "description": "A comprehensive vocabulary and grammar learning application with chapter-based progress and dynamic practice modes.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
